@@ -1,0 +1,4 @@
+framework module Analyzzo {
+  header "Analyzzo-Swift.h"
+  requires objc
+}
