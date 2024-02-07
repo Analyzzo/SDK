@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "appsflyerframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git",
+      "state" : {
+        "revision" : "580fc1b67a1f797a625eb981bc8c5a6a632bbe59",
+        "version" : "6.12.3"
+      }
+    },
+    {
+      "identity" : "disk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/saoudrizwan/Disk",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f5254d8d889448bf13b97527b21674bcf92dfb85"
+      }
+    },
+    {
+      "identity" : "facebook-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/facebook-ios-sdk.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "469554dbae3a5a7f00d4304735de762c097fe8dd"
+      }
+    },
+    {
+      "identity" : "onesignal-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OneSignal/OneSignal-iOS-SDK",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8f47b6fca513ac848634c31052080ae2f3d9e915"
+      }
+    }
+  ],
+  "version" : 2
+}
